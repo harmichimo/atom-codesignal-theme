@@ -10,6 +10,6 @@ Example code in C++ is featured below:
 
 ![A screenshot of your theme](https://github.com/harmichimo/atom-codesignal-theme/blob/main/codesignal-clone.png?raw=true)
 
-Also, be sure to change your syntax from default in settings:
+Also, be sure to change your syntax to 'Codesignal' from your default syntax in settings:
 
 ![Choosing your theme](https://github.com/harmichimo/atom-codesignal-theme/blob/main/choosing%20your%20theme.png?raw=true)
