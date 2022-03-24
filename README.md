@@ -9,3 +9,7 @@ Some simple slight adjustments could be made to make it exactly the same.
 Example code in C++ is featured below:
 
 ![A screenshot of your theme](https://github.com/harmichimo/atom-codesignal-theme/blob/main/codesignal-clone.png?raw=true)
+
+Also, be sure to change your syntax from default in settings! (See below)
+
+![Choosing your theme](https://github.com/harmichimo/atom-codesignal-theme/blob/main/choosing%20your%20theme.png?raw=true)
