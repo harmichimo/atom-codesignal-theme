@@ -1,10 +1,10 @@
 # codesignal-syntax theme
 
-This theme was created to maximize readability when writing code. It is based on the coding practice platform CodeSignal.
+This theme for syntax was created to maximize readability when writing code in Atom. It is based on the coding practice platform CodeSignal.
 
 However, some modifications were made that include my own personal preferences, so it's not identical to that on the CodeSignal website. 
 
-Some simple slight adjustments could be made to make it exactly the same.
+Some simple slight adjustments could be made to make it exactly the same, if you so desired. However, I prefer this slightly modified color scheme.
 
 Example code in C++ is featured below:
 
