@@ -1,0 +1,21 @@
+{
+  "name": "codesignal-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A theme with syntax similar to the theme on the CodeSignal platform. Some of my own personal preferences for colors were added in so it's not the exact same. I use this primarily for writing C++ code in Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "CodeSignal",
+    "Code Signal",
+    "C++",
+    "Python",
+    "Easy to read",
+    "Easy to interpret"
+  ],
+  "repository": "https://github.com/harmichimo/codesignal-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
